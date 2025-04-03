@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Plataforma Educativa NewSkills - Novedades Académicas</title>
+  <link href="https://ivanescanciano.github.io/NewSkills/atom_newskills.xml" rel="self"/>
+  <updated>2025-04-02</updated>
+  <author>
+    <name>Equipo Académico NewSkills</name>
+  </author>
+  <id>https://ivanescanciano.github.io/NewSkills/</id>
+
+  <entry>
+    <title>Nueva tarea en la asignatura de Historia</title>
+    <link href="https://ivanescanciano.github.io/NewSkills/historia/tarea-personajes-historicos.html"/>
+    <id>https://ivanescanciano.github.io/NewSkills/historia/tarea-personajes-historicos.html</id>
+    <updated>2025-04-01</updated>
+    <summary>Abierta la tarea sobre personajes históricos mas importantes del siglo XX.</summary>
+    <author>
+      <name>Profesor Iván Escanciano</name>
+    </author>
+  </entry>
+
+  <entry>
+    <title>Apuntes de refuerzo sobre la termo-dinámica</title>
+    <link href="https://ivanescanciano.github.io/NewSkills/ciencias/termo-dinamica.html"/>
+    <id>https://ivanescanciano.github.io/NewSkills/ciencias/termo-dinamica.html</id>
+    <updated>2025-03-30</updated>
+    <summary>Actualmente disponible los apuntes sobre Termodinámica del Tema 3 de Ciencias Aplicadas.</summary>
+    <author>
+      <name>Profesor Carlos Gómez</name>
+    </author>
+  </entry>
+
+  <entry>
+    <title>Actualización en el calendario de la fecha de entrega de trabajos de abril</title>
+    <link href="https://ivanescanciano.github.io/NewSkills/general/entregas-abril.html"/>
+    <id>https://ivanescanciano.github.io/NewSkills/general/entregas-abril.html</id>
+    <updated>2025-03-28</updated>
+    <summary>Fechas modificadas de la entrega de trabajos de abril.</summary>
+    <author>
+      <name>Dirección Académica NewSkills</name>
+    </author>
+  </entry>
+
+</feed>
